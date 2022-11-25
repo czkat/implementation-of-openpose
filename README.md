@@ -1,9 +1,6 @@
 # implementation-of-openpose
 implementation of https://github.com/LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose
 
-name: py35
-channels:
-  - defaults
 dependencies:
   - _tflow_select=2.2.0=eigen
   - absl-py=0.15.0=pyhd3eb1b0_0
